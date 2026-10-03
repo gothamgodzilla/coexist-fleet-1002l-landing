@@ -1,2 +1,3 @@
-# coexist-fleet-1002l-landing
-Catalog landing for 1002L Apple micro-utilities. StoreKit on device. Stripe web lifetime only. Not live until NACI clear.
+# 1002L landing
+Static catalog. Deploy with `vercel --prod` only after you want the page public.
+Stripe products are web-lifetime archive exports only. Do not route Apple IAP through Stripe.
